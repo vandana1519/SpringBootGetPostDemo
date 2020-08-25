@@ -3,7 +3,7 @@
 #Usage :
 
 	Run the application and go on http://localhost:8080/appliances
-	Enter the username and password for authentication
+	Enter the username and password for authentication when prompted
 
 
 #Use the following URLs to invoke controllers methods and see the interactions with the database:

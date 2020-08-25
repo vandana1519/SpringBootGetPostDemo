@@ -1,0 +1,7 @@
+com\appliance\controller\ApplianceController.class
+com\appliance\model\ApplianceInfoModel.class
+com\appliance\repository\ApplianceRepository.class
+com\appliance\app\BootApplication.class
+com\appliance\service\ApplianceService.class
+com\appliance\service\impl\ApplianceServiceImplementation.class
+com\appliance\config\SecurityConfiguration.class
